@@ -76,6 +76,6 @@ Real-time persona switcher using LLMs with emotion tags and styles — fun, expr
 
 ### 🔗 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/aryan-parab/) • [Portfolio](https://your-portfolio-link.com) • [Resume](https://your-resume-link.com)
+[LinkedIn]([https://www.linkedin.com/in/aryan-parab-0b44991b2/]) • [Portfolio](https://your-portfolio-link.com) • [Resume](https://drive.google.com/file/d/1fYUdhDW-ykHn1h8NWB4R6bajpV9sis7G/view?usp=sharing)
 
 ---
