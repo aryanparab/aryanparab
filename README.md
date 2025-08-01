@@ -11,7 +11,7 @@
 I'm a developer and researcher focused on building scalable, intelligent systems — combining my foundation in backend development, data engineering, and AI/ML. I enjoy creating interactive tools that bridge human creativity and machine intelligence — whether that’s analyzing vocals with AI, building agentic games, or automating workflows.
 
 🔍 Currently looking for **Software Engineering Internships** (Backend / Full Stack / AI Tools / Infra) for **Summer 2026**  
-🧰 Tech Stack: Python, FastAPI, React, Next.js, SQL, MongoDB, AWS, Librosa, LLM Agents, LangChain, Elastic Beanstalk  
+🧰 Tech Stack: Python, FastAPI, React, Next.js, SQL, MongoDB, AWS, Librosa, LLM Agents, LangChain
 📫 Contact: [amparab@usc.edu](mailto:amparab@usc.edu)
 
 ---
