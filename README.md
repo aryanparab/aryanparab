@@ -12,7 +12,7 @@ I'm a developer and researcher focused on building scalable, intelligent systems
 
 🔍 Currently looking for **Software Engineering Internships** (Backend / Full Stack / AI Tools / Infra) for **Summer 2026**  
 🧰 Tech Stack: Python, FastAPI, React, Next.js, SQL, MongoDB, AWS, Librosa, LLM Agents, LangChain, Elastic Beanstalk  
-📫 Contact: [parabary@usc.edu](mailto:amparab@usc.edu)
+📫 Contact: [amparab@usc.edu](mailto:amparab@usc.edu)
 
 ---
 
