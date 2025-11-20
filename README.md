@@ -18,24 +18,24 @@ I'm a developer and researcher focused on building scalable, intelligent systems
 
 ### 🚧 Notable Projects
 
-#### 🎤 Idol Coach – AI Singing Assistant  
+#### 🎤 Idol Coach – AI Singing Assistant  (Link : https://github.com/aryanparab/Idol-Coach)
 AI-powered web app where users sing or chat to get real-time vocal feedback.  
 `Python` `FastAPI` `React` `Librosa` `Gentle` `NLP`
 
-#### 🕹️ Narrative AI Tools  
+#### 🕹️ Narrative AI Tools (Link : https://github.com/aryanparab/SinbadAI)
 **Multi-Agent RPG** – A survival thriller RPG where user-defined worlds evolve through orchestrated LLM agents  
 **GameMaster GPT** – Agentic scene-building system powered by 12 coordinated generative agents  
 `LangChain` `Pydantic` `LLMs` `Multi-Agent Systems`
 
-#### 📚 Memory Lane – AI Scrapbook  
+#### 📚 Memory Lane – AI Scrapbook  (Link: https://github.com/aryanparab/memory-lane)
 Upload photos & captions to auto-generate shareable memory books with emotion-aware text styling.  
 `Next.js` `Python` `OpenAI API` `Media Upload`
 
-#### 🎧 Spotify Playlist Gen  
+#### 🎧 Spotify Playlist Gen  (Link : https://github.com/aryanparab/AI-spotify-playlist)
 Generates Spotify playlists based on prompts (e.g., mood, events) or user's top artists  
 `Spotify API` `OAuth` `React` `LLM Prompting`
 
-#### 🧠 AlterEgo – AI Personas on Command  
+#### 🧠 AlterEgo – AI Personas on Command  (Link : https://github.com/aryanparab/YourWingman)
 Real-time persona switcher using LLMs with emotion tags and styles — fun, expressive chatbot interactions.  
 `LLM APIs` `Prompt Chaining` `Persona Engineering`
 
@@ -43,7 +43,7 @@ Real-time persona switcher using LLMs with emotion tags and styles — fun, expr
 
 ### 💼 Experience
 
-**Deloitte** – Analyst (Data & AI)  
+**Deloitte** – Backend Engineer 
 - Built ML pipelines, dashboards, and unsupervised clustering systems (K-Means, DBSCAN)  
 - Automated insights delivery using Power BI & SQL, cutting turnaround by 30%  
 - Hands-on with AWS S3, metadata validation, and enterprise data systems
