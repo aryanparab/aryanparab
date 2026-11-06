@@ -1,5 +1,5 @@
 # 👋 Welcome to Aryan-World
-link: https://aryan-verse.vercel.app/
+link: https://aryanparab.github.io/
 
 🎓 Currently Pursing MS in Computer Science @ University of Southern California  
 💼 Ex-Deloitte | Full-Stack Engineer | AI Developer 
